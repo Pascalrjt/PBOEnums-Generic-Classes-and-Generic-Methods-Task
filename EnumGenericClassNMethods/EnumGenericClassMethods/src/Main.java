@@ -1,3 +1,4 @@
+// code made by Pascal Roger Junior Tauran on 11/09/2022
 class Personel<P> {
 	P obj;
 

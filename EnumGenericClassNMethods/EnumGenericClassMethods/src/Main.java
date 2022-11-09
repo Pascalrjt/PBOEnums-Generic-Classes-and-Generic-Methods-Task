@@ -23,7 +23,7 @@ class Main {
 		Personel<String> sObj = new Personel<String>("Rafi");
 		secClearance clearance = secClearance.Secret;
 
-		System.out.println("Personel name		: " + sObj.getObject());
+		System.out.println("Personel name	: " + sObj.getObject());
 		System.out.println("Personal clearance 	: " + clearance);
 	}
 }
